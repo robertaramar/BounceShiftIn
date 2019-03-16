@@ -1,0 +1,16 @@
+{
+  "name": "BounceShiftIn",
+  "keywords": "bounce, signal, input, ouput, shiftin",
+  "description": "Debouncing library for Arduino or Wiring",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/robertaramar/BounceShiftIn.git"
+  },
+  "version": "1.00",
+  "exclude": [
+    "*.png",
+    "*.zip"
+  ],
+  "frameworks": "arduino",
+  "platforms": "*"
+}

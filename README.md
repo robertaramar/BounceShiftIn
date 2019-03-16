@@ -1,2 +1,2 @@
 # BounceShiftIn
-De-bouncing buttons which status is obtained through shifting in from a CD4014B
+De-bouncing buttons and switches that are read through shifting bits in from a CD4014B
